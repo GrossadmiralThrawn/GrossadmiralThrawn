@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @GrossadmiralThrawn
 - 👀 I’m interested in history, biology, everything of IT
-- 🌱 I’m currently learning Java, Kotlin, C++
+- 🌱 I’m currently learning Kotlin, C++
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
